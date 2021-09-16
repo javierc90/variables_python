@@ -5,7 +5,7 @@
 # Version: 2.0
 
 # Ejemplos varialbles numéricas
-numero_1 = 5
+numero_1 = 8
 numero_2 = 9
 
 suma = numero_1 + numero_2   # Operamos la suma
