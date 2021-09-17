@@ -10,7 +10,7 @@
 # Ejercicios de práctica numérica
 
 numero_1 = 5
-numero_2 = 7
+numero_2 = 722
 
 # Realizar la suma de las dos variables
 # numero_1 y numero_2
