@@ -12,7 +12,7 @@
 # Ahora los valores a operar deben ser ingresados por
 # consola con la función "input" como se ve a continuación
 print('Ingrese por consola el primer número decimal a operar:')
-numero_1 = int(input())
+numero_1 = int(3)
 
 print('Ingrese por consola el segundo número decimal a operar:')
 numero_2 = int(2)
