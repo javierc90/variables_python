@@ -15,7 +15,7 @@ print('Ingrese por consola el primer número decimal a operar:')
 numero_1 = int(input())
 
 print('Ingrese por consola el segundo número decimal a operar:')
-numero_2 = int(input())
+numero_2 = int(2)
 
 # Alumno: Imprima en pantalla los dos números decimales solicitados
 # print(....)
