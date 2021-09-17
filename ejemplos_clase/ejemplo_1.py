@@ -45,5 +45,5 @@ resta = numero_3 - numero_1  # Operamos la resta
 print('El resultado de restar', numero_3, 'y', numero_1, 'es', resta)
 
 # Ensayo de división de números decimales
-division = numero_1 / numero_2
+division = numero_1 % numero_2
 print('El resultado dividir', numero_1, 'y', numero_2, 'es', division)
