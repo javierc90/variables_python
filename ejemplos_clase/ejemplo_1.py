@@ -1,5 +1,5 @@
 # Tipos de variables [Python]
-# Ejemplos de clase
+# Ejemplos de clas
 
 # Autor: Inove Coding School
 # Version: 2.0
