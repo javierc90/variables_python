@@ -24,8 +24,8 @@ numero_2 = input("Ingrese un número: ")
 resultado = numero_1+numero_2
 print(resultado)
 numero_1 = int(numero_1)
-numero_2 = int(numero_2)
 resultado = numero_1+numero_2
+numero_2 = int(numero_2)
 print(resultado)
 
 print('Ingrese su altura en metros:')

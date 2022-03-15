@@ -8,8 +8,8 @@
 
 # Una cadena de texto (string) está compuesta de Nº caracteres
 # ¿Cuántos caracteres tiene el Argentina?
-pais = 'Peru'
-pais_len = len(str(433))
+pais = 'Argentina'
+pais_len = len(pais)
 print(pais, 'tiene', pais_len, 'caracteres')
 
 # ¿Puedo acceder a cada uno de esos caracteres individualmente?
