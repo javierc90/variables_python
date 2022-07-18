@@ -25,8 +25,3 @@ print(mensaje)
 # Duplicando el texto
 texto_duplicado = texto_1 * 2
 print('Duplicar texto', texto_1, ':', texto_duplicado)
-
-numero_1 = '4'
-numero_2 = '4'
-resultado = numero_1 + numero_2
-print(f"el texto es {texto_1} y el numero es {numero_1}")

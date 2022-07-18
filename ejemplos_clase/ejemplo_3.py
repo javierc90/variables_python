@@ -14,20 +14,13 @@ nombre = str(input())
 print('Nombre ingresado:', nombre)
 
 print('Ingrese cuantos años tiene:')
-edad = str(input())
-edad = int(edad)
+# Utilizamos "int" cuando lo que se desea ingresar
+# es un número entero (sin coma)
+edad = int(input())
 print('Edad ingresada:', edad)
 
-numero_1 = input("Ingrese un número: ")
-numero_2 = input("Ingrese un número: ")
-
-resultado = numero_1+numero_2
-print(resultado)
-numero_1 = int(numero_1)
-resultado = numero_1+numero_2
-numero_2 = int(numero_2)
-print(resultado)
-
 print('Ingrese su altura en metros:')
+# Utilizamos "int" cuando lo que se desea ingresar
+# es un número decimal (con coma)
 altura = float(input())
 print('Altura ingresada:', altura)
