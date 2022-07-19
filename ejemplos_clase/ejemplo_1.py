@@ -1,7 +1,7 @@
 # Tipos de variables [Python]
 # Ejemplos de clase
 
-# Autor: Inove Coding School
+# Autor: Inove Coding Schoo
 # Version: 2.0
 
 # Ejemplos varialbles numéricas (números enteros --> int)
