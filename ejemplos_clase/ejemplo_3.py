@@ -11,7 +11,7 @@
 # y luego esperaremos por el
 print('Ingrese su nombre:')
 nombre = str(input())
-print('Nombre ingresado:', nombre)
+print('Nombre ingresado:' + nombre)
 
 print('Ingrese cuantos años tiene:')
 # Utilizamos "int" cuando lo que se desea ingresar

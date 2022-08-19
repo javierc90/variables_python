@@ -26,7 +26,7 @@ E) Exponente/Potencia
 - Para todos los casos se debe imprimir en pantalla el resultado aclarando
   la operación realizada en cada caso y con que números
   se ha realizado la operación
-  ej: La suma entre 4.2 y 6.5 es 10.7fdsfsdf
+  ej: La suma entre 4.2 y 6.5 es 10.7
 '''
 
 print('¡Nuestra primera calculadora!')
