@@ -17,7 +17,7 @@
 Enunciado:
 Realice un calculadora, se ingresará por línea de comando dos
 números reales y se deberá calcular todas las operaciones entre ellos:
-A) Suma
+A) Suma 
 B) Resta
 C) Multiplicación
 D) División
