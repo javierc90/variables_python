@@ -4,6 +4,7 @@
 # Autor: Inove Coding Schoo
 # Version: 2.0
 
+
 # Ejemplos varialbles numéricas (números enteros --> int)
 numero_1 = int(input('Ingrese primer numero: '))
 numero_2 = int(input('Ingrese seguro numero: '))
